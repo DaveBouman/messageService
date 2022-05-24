@@ -7,8 +7,6 @@ COPY package.json ./package-lock.json /src/
 
 RUN  npm ci --silent
 
-EXPOSE 3000
-
 COPY . .
 
 USER node
