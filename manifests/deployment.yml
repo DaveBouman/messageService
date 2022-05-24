@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: daveboumanmessageservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: daveboumanmessageservice
+  template:
+    metadata:
+      labels:
+        app: daveboumanmessageservice 
+    spec:
+      containers:
+        - name: daveboumanmessageservice 
+          image: semester6.azurecr.io/daveboumanmessageservice
+          ports:
+          - containerPort: 3002
