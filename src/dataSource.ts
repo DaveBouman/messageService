@@ -3,7 +3,7 @@ import { DataSource } from "typeorm"
 
 export default new DataSource({
     type: "mssql",
-    host: "semesteruserservice.database.windows.net",
+    host: "semester6databases.database.windows.net",
     port: 1433,
     username: "davebouman",
     password: "W7BMZkn9H5cX9jQ",
