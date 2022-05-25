@@ -3,15 +3,15 @@ import { Entity, Column, PrimaryGeneratedColumn, Generated, BeforeInsert, Before
 
 @Entity()
 export class Message {
-    @Column('char')
+    @Column()
     name!: string;
 
-    @Column('char')
+    @Column()
     content!: string;
 
-    @PrimaryGeneratedColumn({ type: 'bigint' })
+    @PrimaryGeneratedColumn()
     id!: number;
 
-    @Column('char')
+    @Column()
     userId!: string;
 }

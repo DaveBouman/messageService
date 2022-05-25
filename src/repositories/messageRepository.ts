@@ -22,6 +22,14 @@ class MessageRepository extends BaseRepository<Message> {
         })
     }
 
+    search = async (query: string) => {
+        return await this.repository.find({
+            where: {
+                content: Like(`%${query}%`)
+            }
+        })
+    }
+
 }
 
 export default MessageRepository

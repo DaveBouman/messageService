@@ -28,8 +28,17 @@ class MessageController extends BaseController<Message> {
 
     test = async (req: Request, res: Response) => {
         return res.send({
-            message: "successful",
+            message: "successfull",
             entity: 'this is atest',
+        });
+    };
+
+    search = async (req: Request, res: Response) => {
+        const query = req.body.query;
+        const response = await this.messageService.search(query);
+        return res.send({
+            message: "succesfull",
+            entity: response
         });
     };
 
@@ -46,7 +55,7 @@ class MessageController extends BaseController<Message> {
 
         const response = await this.messageService.getMentions(name);
         return res.send({
-            message: "succesful",
+            message: "succesfull",
             entity: response
         });
     };

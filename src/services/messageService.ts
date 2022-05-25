@@ -18,6 +18,10 @@ class MessageService extends BaseService<Message> {
     getMentions = async (name: string) => {
         return await this.messageRepository.findMentions(name);
     }
+
+    search = async (query: string) => {
+        return await this.messageRepository.search(query);
+    }
 }
 
 export default MessageService
