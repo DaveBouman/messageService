@@ -37,7 +37,7 @@ class MessageController extends BaseController<Message> {
         const query = req.query.query as string;
         const response = await this.messageService.search(query);
         return res.send({
-            message: "succesfull",
+            message: "succesful",
             entity: response
         });
     };
@@ -53,16 +53,21 @@ class MessageController extends BaseController<Message> {
         });
     }
 
+    heartKweet = async (req: Request, res: Response) => {
+        const jwt: any = jwt_decode(`${req.cookies['session.sig']}.${req.cookies["session"]}`);
+        const userId = jwt.passport.user.userId;
+        const kweetId = req.body.kweetId;
+
+        const response = await this.messageService.heartKweet(userId, kweetId);
+        return res.send({
+            message: "succesfull",
+            entity: response
+        });
+    }
+
     getMentions = async (req: Request, res: Response) => {
         const jwt: any = jwt_decode(`${req.cookies['session.sig']}.${req.cookies["session"]}`);
-        const name = `@${req.body.name}`;
-
-        if (`@${jwt.passport.user.displayname}` !== name) {
-            return res.send({
-                message: "couldn't retrieve mentions",
-                entity: 'not found'
-            });
-        }
+        const name = `@${jwt.passport.user.username}`;
 
         const response = await this.messageService.getMentions(name);
         return res.send({
@@ -70,6 +75,33 @@ class MessageController extends BaseController<Message> {
             entity: response
         });
     };
+
+    getLatestTrends = async (req: Request, res: Response) => {
+        const response = await this.messageService.getLatestTrends();
+
+
+        let hashtags = new Array();
+
+        response.filter(function (currentItem) {
+            hashtags.push(currentItem.content.match(/#[a-z]+/gi) + " ");
+        });
+
+        hashtags = [...new Set(hashtags)];
+
+        return res.send({
+            message: "succesful",
+            entity: hashtags
+        })
+    }
+
+    getTrendskweet = async (req: Request, res: Response) => {
+        const response = await this.messageService.getTrendsKweets();
+
+        return res.send({
+            message: "succesful",
+            entity: response
+        })
+    }
 }
 
 export default MessageController

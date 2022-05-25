@@ -2,3 +2,32 @@
 2022-05-24 12:59:21:5921 [31merror[39m: [31mError during Data Source initialization: Cannot open server 'semester6databases' requested by the login. Client with IP address '84.85.70.178' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.[39m
 2022-05-25 07:00:12:012 [31merror[39m: [31mError during Data Source initialization: Cannot open server 'semester6databases' requested by the login. Client with IP address '84.85.70.178' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.[39m
 2022-05-25 12:45:02:452 [31merror[39m: [31mError during Data Source initialization: Failed to connect to semester6databases.database.windows.net:1433 in 15000ms[39m
+2022-05-25 18:34:27:3427 [31merror[39m: [31mError during Data Source initialization: Failed to connect to semester6databases.database.windows.net:1433 in 15000ms[39m
+2022-05-25 18:35:04:354 [31merror[39m: [31mError during Data Source initialization: Failed to connect to semester6databases.database.windows.net:1433 in 15000ms[39m
+2022-05-25 18:37:12:3712 [31merror[39m: [31mError during Data Source initialization: Error: ALTER TABLE only allows columns to be added that can contain nulls, or have a DEFAULT definition specified, or the column being added is an identity or timestamp column, or alternatively if none of the previous conditions are satisfied the table must be empty to allow addition of this column. Column 'time' cannot be added to non-empty table 'message' because it does not satisfy these conditions.[39m
+2022-05-25 18:39:38:3938 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:40:24:4024 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:41:06:416 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:41:29:4129 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:41:48:4148 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:42:21:4221 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:42:38:4238 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:43:12:4312 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:43:38:4338 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:43:49:4349 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:43:55:4355 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:44:39:4439 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:46:35:4635 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:47:01:471 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userIdHeart" is not supported by "mssql" database.[39m
+2022-05-25 18:47:10:4710 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 18:47:22:4722 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 18:47:45:4745 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 18:50:17:5017 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userHeartId" is not supported by "mssql" database.[39m
+2022-05-25 18:50:35:5035 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userHeartId" is not supported by "mssql" database.[39m
+2022-05-25 18:50:55:5055 [31merror[39m: [31mError during Data Source initialization: Data type "Array" in "Message.userHeartId" is not supported by "mssql" database.[39m
+2022-05-25 19:04:51:451 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 19:05:17:517 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 19:05:24:524 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 19:05:45:545 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 19:05:49:549 [31merror[39m: [31mError during Data Source initialization: Error: Could not create constraint or index. See previous errors.[39m
+2022-05-25 19:05:58:558 [31merror[39m: [31mError during Data Source initialization: Data type "timestamp with time zone" in "Message.created" is not supported by "mssql" database.[39m
