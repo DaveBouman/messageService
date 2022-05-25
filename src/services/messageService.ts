@@ -31,8 +31,8 @@ class MessageService extends BaseService<Message> {
         return await this.messageRepository.heartKweet(userId, kweetId);
     }
 
-    getTrendsKweets = async () => {
-        return await this.messageRepository.getTrendsKweets();
+    getTrendsKweets = async (trend: string) => {
+        return await this.messageRepository.getTrendsKweets(trend);
     }
 
     getLatestTrends = async () => {

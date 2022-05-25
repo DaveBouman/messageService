@@ -37,10 +37,10 @@ class MessageRepository extends BaseRepository<Message> {
         return this.repository.save({ ...entity });
     }
 
-    getTrendsKweets = async () => {
+    getTrendsKweets = async (trend: string) => {
         const now = new Date();
         return await this.repository.findBy({
-            content: Like(`%#%`)
+            content: Like(`%#${trend}%`)
         })
     }
 
