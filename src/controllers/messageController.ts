@@ -34,13 +34,24 @@ class MessageController extends BaseController<Message> {
     };
 
     search = async (req: Request, res: Response) => {
-        const query = req.body.query;
+        const query = req.query.query as string;
         const response = await this.messageService.search(query);
         return res.send({
             message: "succesfull",
             entity: response
         });
     };
+
+    getLatestTweets = async (req: Request, res: Response) => {
+        const jwt: any = jwt_decode(`${req.cookies['session.sig']}.${req.cookies["session"]}`);
+        const name = jwt.passport.user.username;
+
+        const response = await this.messageService.getLatestTweets(name);
+        return res.send({
+            message: "succesfull",
+            entity: response
+        });
+    }
 
     getMentions = async (req: Request, res: Response) => {
         const jwt: any = jwt_decode(`${req.cookies['session.sig']}.${req.cookies["session"]}`);

@@ -22,6 +22,15 @@ class MessageRepository extends BaseRepository<Message> {
         })
     }
 
+    getLatestTweets = async (username: string) => {
+        return await this.repository.find({
+            where: {
+                name: username,
+            },
+            take: 10
+        })
+    }
+
     search = async (query: string) => {
         return await this.repository.find({
             where: {

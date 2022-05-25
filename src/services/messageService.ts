@@ -22,6 +22,10 @@ class MessageService extends BaseService<Message> {
     search = async (query: string) => {
         return await this.messageRepository.search(query);
     }
+
+    getLatestTweets = async (username: string) => {
+        return await this.messageRepository.getLatestTweets(username);
+    }
 }
 
 export default MessageService
