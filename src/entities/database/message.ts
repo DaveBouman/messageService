@@ -4,7 +4,7 @@ import { Entity, Column, PrimaryGeneratedColumn, Generated, BeforeInsert, Before
 @Entity()
 export class Message {
     @Column()
-    name!: string;
+    name!: string
 
     @Column()
     content!: string;

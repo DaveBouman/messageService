@@ -845,3 +845,8 @@
 [35m[39m
 2022-05-26 10:33:34:3334 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 669.314 ms [39m
 [35m[39m
+2022-05-26 10:37:05:375 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 674.531 ms [39m
+[35m[39m
+2022-05-26 10:37:05:375 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 707.492 ms [39m
+[35m[39m
+2022-05-26 12:42:03:423 [32minfo[39m: [32mData Source has been initialized![39m
