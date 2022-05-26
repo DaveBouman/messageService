@@ -95,7 +95,7 @@ class MessageController extends BaseController<Message> {
     }
 
     getTrendskweet = async (req: Request, res: Response) => {
-        const trend = req.body.trend;
+        const trend = req.query.trend as string;
         const response = await this.messageService.getTrendsKweets(trend);
 
         return res.send({

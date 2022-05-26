@@ -1,0 +1,847 @@
+2022-05-26 08:35:02:352 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 693.765 ms [39m
+[35m[39m
+2022-05-26 08:35:02:352 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 684.763 ms [39m
+[35m[39m
+2022-05-26 08:35:03:353 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 108.655 ms [39m
+[35m[39m
+2022-05-26 08:35:03:353 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 109.666 ms [39m
+[35m[39m
+2022-05-26 08:35:03:353 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 194.573 ms [39m
+[35m[39m
+2022-05-26 08:35:03:353 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 199.924 ms [39m
+[35m[39m
+2022-05-26 08:35:03:353 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 284.807 ms [39m
+[35m[39m
+2022-05-26 08:35:03:353 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 286.514 ms [39m
+[35m[39m
+2022-05-26 08:35:48:3548 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 684.618 ms [39m
+[35m[39m
+2022-05-26 08:35:48:3548 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 670.872 ms [39m
+[35m[39m
+2022-05-26 08:36:34:3634 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 661.697 ms [39m
+[35m[39m
+2022-05-26 08:36:34:3634 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 652.787 ms [39m
+[35m[39m
+2022-05-26 08:45:12:4512 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 679.956 ms [39m
+[35m[39m
+2022-05-26 08:45:12:4512 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 660.653 ms [39m
+[35m[39m
+2022-05-26 08:48:43:4843 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 670.822 ms [39m
+[35m[39m
+2022-05-26 08:48:43:4843 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 710.154 ms [39m
+[35m[39m
+2022-05-26 08:59:07:597 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 666.347 ms [39m
+[35m[39m
+2022-05-26 08:59:07:597 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 669.132 ms [39m
+[35m[39m
+2022-05-26 09:04:11:411 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 688.843 ms [39m
+[35m[39m
+2022-05-26 09:04:11:411 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 744.375 ms [39m
+[35m[39m
+2022-05-26 09:04:55:455 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 679.876 ms [39m
+[35m[39m
+2022-05-26 09:04:55:455 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 679.803 ms [39m
+[35m[39m
+2022-05-26 09:04:56:456 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 93.245 ms [39m
+[35m[39m
+2022-05-26 09:04:56:456 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.138 ms [39m
+[35m[39m
+2022-05-26 09:05:22:522 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 102.243 ms [39m
+[35m[39m
+2022-05-26 09:05:24:524 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.624 ms [39m
+[35m[39m
+2022-05-26 09:05:24:524 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 94.292 ms [39m
+[35m[39m
+2022-05-26 09:05:29:529 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.152 ms [39m
+[35m[39m
+2022-05-26 09:05:48:548 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 92.838 ms [39m
+[35m[39m
+2022-05-26 09:09:37:937 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 705.171 ms [39m
+[35m[39m
+2022-05-26 09:09:37:937 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 684.593 ms [39m
+[35m[39m
+2022-05-26 09:10:05:105 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 98.265 ms [39m
+[35m[39m
+2022-05-26 09:10:20:1020 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 99.061 ms [39m
+[35m[39m
+2022-05-26 09:10:20:1020 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 160.025 ms [39m
+[35m[39m
+2022-05-26 09:11:03:113 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 714.132 ms [39m
+[35m[39m
+2022-05-26 09:11:43:1143 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 698.461 ms [39m
+[35m[39m
+2022-05-26 09:11:43:1143 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 673.702 ms [39m
+[35m[39m
+2022-05-26 09:12:25:1225 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 716.812 ms [39m
+[35m[39m
+2022-05-26 09:13:34:1334 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 693.356 ms [39m
+[35m[39m
+2022-05-26 09:13:34:1334 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 672.515 ms [39m
+[35m[39m
+2022-05-26 09:13:45:1345 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 93.039 ms [39m
+[35m[39m
+2022-05-26 09:14:24:1424 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 721.038 ms [39m
+[35m[39m
+2022-05-26 09:14:44:1444 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 93.667 ms [39m
+[35m[39m
+2022-05-26 09:17:00:170 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 688.084 ms [39m
+[35m[39m
+2022-05-26 09:17:00:170 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 694.891 ms [39m
+[35m[39m
+2022-05-26 09:17:15:1715 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.767 ms [39m
+[35m[39m
+2022-05-26 09:17:15:1715 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.468 ms [39m
+[35m[39m
+2022-05-26 09:17:16:1716 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.105 ms [39m
+[35m[39m
+2022-05-26 09:17:16:1716 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.372 ms [39m
+[35m[39m
+2022-05-26 09:17:29:1729 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 97.631 ms [39m
+[35m[39m
+2022-05-26 09:17:29:1729 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 98.307 ms [39m
+[35m[39m
+2022-05-26 09:17:29:1729 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 163.636 ms [39m
+[35m[39m
+2022-05-26 09:17:29:1729 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 188.984 ms [39m
+[35m[39m
+2022-05-26 09:17:29:1729 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 253.596 ms [39m
+[35m[39m
+2022-05-26 09:17:29:1729 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 255.283 ms [39m
+[35m[39m
+2022-05-26 09:17:37:1737 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.158 ms [39m
+[35m[39m
+2022-05-26 09:17:37:1737 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.671 ms [39m
+[35m[39m
+2022-05-26 09:23:50:2350 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 669.357 ms [39m
+[35m[39m
+2022-05-26 09:23:50:2350 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 685.046 ms [39m
+[35m[39m
+2022-05-26 09:23:55:2355 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.267 ms [39m
+[35m[39m
+2022-05-26 09:23:55:2355 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.943 ms [39m
+[35m[39m
+2022-05-26 09:23:59:2359 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.383 ms [39m
+[35m[39m
+2022-05-26 09:23:59:2359 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.410 ms [39m
+[35m[39m
+2022-05-26 09:24:00:240 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.958 ms [39m
+[35m[39m
+2022-05-26 09:24:00:240 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.369 ms [39m
+[35m[39m
+2022-05-26 09:24:01:241 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.947 ms [39m
+[35m[39m
+2022-05-26 09:24:01:241 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.859 ms [39m
+[35m[39m
+2022-05-26 09:24:02:242 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 104.979 ms [39m
+[35m[39m
+2022-05-26 09:24:02:242 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 105.565 ms [39m
+[35m[39m
+2022-05-26 09:24:02:242 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 191.949 ms [39m
+[35m[39m
+2022-05-26 09:24:02:242 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 193.321 ms [39m
+[35m[39m
+2022-05-26 09:24:02:242 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 285.819 ms [39m
+[35m[39m
+2022-05-26 09:24:02:242 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 287.500 ms [39m
+[35m[39m
+2022-05-26 09:24:04:244 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.634 ms [39m
+[35m[39m
+2022-05-26 09:24:04:244 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 94.854 ms [39m
+[35m[39m
+2022-05-26 09:24:34:2434 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 91.913 ms [39m
+[35m[39m
+2022-05-26 09:24:34:2434 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 93.678 ms [39m
+[35m[39m
+2022-05-26 09:24:37:2437 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 102.858 ms [39m
+[35m[39m
+2022-05-26 09:24:37:2437 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 104.723 ms [39m
+[35m[39m
+2022-05-26 09:24:37:2437 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 187.562 ms [39m
+[35m[39m
+2022-05-26 09:24:37:2437 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 195.060 ms [39m
+[35m[39m
+2022-05-26 09:24:37:2437 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 285.872 ms [39m
+[35m[39m
+2022-05-26 09:24:37:2437 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 284.792 ms [39m
+[35m[39m
+2022-05-26 09:24:38:2438 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.088 ms [39m
+[35m[39m
+2022-05-26 09:24:38:2438 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 100.189 ms [39m
+[35m[39m
+2022-05-26 09:24:48:2448 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 96.943 ms [39m
+[35m[39m
+2022-05-26 09:24:48:2448 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.822 ms [39m
+[35m[39m
+2022-05-26 09:24:48:2448 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 98.206 ms [39m
+[35m[39m
+2022-05-26 09:24:48:2448 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 98.766 ms [39m
+[35m[39m
+2022-05-26 09:24:48:2448 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 99.369 ms [39m
+[35m[39m
+2022-05-26 09:24:48:2448 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 100.510 ms [39m
+[35m[39m
+2022-05-26 09:24:49:2449 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 93.685 ms [39m
+[35m[39m
+2022-05-26 09:24:49:2449 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 101.447 ms [39m
+[35m[39m
+2022-05-26 09:24:51:2451 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 91.924 ms [39m
+[35m[39m
+2022-05-26 09:24:51:2451 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.613 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 107.293 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 107.555 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 106.849 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 108.012 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 108.838 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 109.960 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 92.958 ms [39m
+[35m[39m
+2022-05-26 09:24:53:2453 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 104.350 ms [39m
+[35m[39m
+2022-05-26 09:25:20:2520 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.111 ms [39m
+[35m[39m
+2022-05-26 09:25:20:2520 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 101.553 ms [39m
+[35m[39m
+2022-05-26 09:25:20:2520 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 100.275 ms [39m
+[35m[39m
+2022-05-26 09:25:20:2520 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 96.973 ms [39m
+[35m[39m
+2022-05-26 09:25:20:2520 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 97.100 ms [39m
+[35m[39m
+2022-05-26 09:25:20:2520 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 97.670 ms [39m
+[35m[39m
+2022-05-26 09:25:21:2521 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.351 ms [39m
+[35m[39m
+2022-05-26 09:25:21:2521 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.475 ms [39m
+[35m[39m
+2022-05-26 09:25:26:2526 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 105.746 ms [39m
+[35m[39m
+2022-05-26 09:25:26:2526 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 105.489 ms [39m
+[35m[39m
+2022-05-26 09:25:26:2526 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 105.190 ms [39m
+[35m[39m
+2022-05-26 09:25:26:2526 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 103.007 ms [39m
+[35m[39m
+2022-05-26 09:25:26:2526 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 104.781 ms [39m
+[35m[39m
+2022-05-26 09:25:26:2526 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 113.786 ms [39m
+[35m[39m
+2022-05-26 09:25:27:2527 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.613 ms [39m
+[35m[39m
+2022-05-26 09:25:27:2527 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.749 ms [39m
+[35m[39m
+2022-05-26 09:25:29:2529 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.265 ms [39m
+[35m[39m
+2022-05-26 09:25:29:2529 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.828 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 108.313 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 105.822 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 112.086 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 108.447 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 108.511 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 109.650 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.498 ms [39m
+[35m[39m
+2022-05-26 09:25:30:2530 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.803 ms [39m
+[35m[39m
+2022-05-26 09:25:43:2543 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 107.362 ms [39m
+[35m[39m
+2022-05-26 09:25:43:2543 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 107.053 ms [39m
+[35m[39m
+2022-05-26 09:25:43:2543 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 105.035 ms [39m
+[35m[39m
+2022-05-26 09:25:43:2543 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 105.374 ms [39m
+[35m[39m
+2022-05-26 09:25:43:2543 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 106.814 ms [39m
+[35m[39m
+2022-05-26 09:25:43:2543 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 108.132 ms [39m
+[35m[39m
+2022-05-26 09:25:44:2544 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.850 ms [39m
+[35m[39m
+2022-05-26 09:25:44:2544 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.174 ms [39m
+[35m[39m
+2022-05-26 09:26:00:260 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 97.879 ms [39m
+[35m[39m
+2022-05-26 09:26:00:260 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.357 ms [39m
+[35m[39m
+2022-05-26 09:26:00:260 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 97.886 ms [39m
+[35m[39m
+2022-05-26 09:26:00:260 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 98.241 ms [39m
+[35m[39m
+2022-05-26 09:26:00:260 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 99.167 ms [39m
+[35m[39m
+2022-05-26 09:26:00:260 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 102.289 ms [39m
+[35m[39m
+2022-05-26 09:26:01:261 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.593 ms [39m
+[35m[39m
+2022-05-26 09:26:01:261 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 97.807 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 664.853 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 667.476 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 675.929 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 673.062 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 673.955 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 674.960 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.186 ms [39m
+[35m[39m
+2022-05-26 09:26:36:2636 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.034 ms [39m
+[35m[39m
+2022-05-26 09:26:38:2638 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 91.686 ms [39m
+[35m[39m
+2022-05-26 09:26:38:2638 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.195 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 103.434 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 111.975 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 108.307 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 108.041 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 109.325 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 109.794 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.630 ms [39m
+[35m[39m
+2022-05-26 09:26:40:2640 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.512 ms [39m
+[35m[39m
+2022-05-26 09:27:11:2711 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 93.671 ms [39m
+[35m[39m
+2022-05-26 09:27:13:2713 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 98.917 ms [39m
+[35m[39m
+2022-05-26 09:27:13:2713 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 187.600 ms [39m
+[35m[39m
+2022-05-26 09:27:14:2714 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 276.606 ms [39m
+[35m[39m
+2022-05-26 09:27:14:2714 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 349.278 ms [39m
+[35m[39m
+2022-05-26 09:27:14:2714 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 435.744 ms [39m
+[35m[39m
+2022-05-26 09:27:14:2714 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 524.000 ms [39m
+[35m[39m
+2022-05-26 09:27:16:2716 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.002 ms [39m
+[35m[39m
+2022-05-26 09:27:16:2716 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.059 ms [39m
+[35m[39m
+2022-05-26 09:27:30:2730 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 93.124 ms [39m
+[35m[39m
+2022-05-26 09:27:41:2741 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.549 ms [39m
+[35m[39m
+2022-05-26 09:27:41:2741 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.217 ms [39m
+[35m[39m
+2022-05-26 09:27:46:2746 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 108.171 ms [39m
+[35m[39m
+2022-05-26 09:27:46:2746 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 109.731 ms [39m
+[35m[39m
+2022-05-26 09:27:46:2746 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 201.922 ms [39m
+[35m[39m
+2022-05-26 09:27:46:2746 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 201.420 ms [39m
+[35m[39m
+2022-05-26 09:27:46:2746 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 289.413 ms [39m
+[35m[39m
+2022-05-26 09:27:46:2746 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 291.256 ms [39m
+[35m[39m
+2022-05-26 09:27:48:2748 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.959 ms [39m
+[35m[39m
+2022-05-26 09:27:48:2748 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.732 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 692.268 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 688.751 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 695.655 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 689.095 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 688.241 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 688.359 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 226.141 ms [39m
+[35m[39m
+2022-05-26 09:28:46:2846 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 227.172 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 684.843 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 686.355 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 696.575 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 692.947 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 693.728 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 699.383 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 125.755 ms [39m
+[35m[39m
+2022-05-26 09:29:55:2955 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 127.236 ms [39m
+[35m[39m
+2022-05-26 09:30:04:304 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 106.103 ms [39m
+[35m[39m
+2022-05-26 09:30:04:304 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 106.092 ms [39m
+[35m[39m
+2022-05-26 09:30:04:304 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 106.392 ms [39m
+[35m[39m
+2022-05-26 09:30:04:304 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 103.126 ms [39m
+[35m[39m
+2022-05-26 09:30:04:304 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 110.455 ms [39m
+[35m[39m
+2022-05-26 09:30:04:304 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 107.691 ms [39m
+[35m[39m
+2022-05-26 09:30:05:305 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.712 ms [39m
+[35m[39m
+2022-05-26 09:30:05:305 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.653 ms [39m
+[35m[39m
+2022-05-26 09:30:28:3028 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 109.418 ms [39m
+[35m[39m
+2022-05-26 09:30:28:3028 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 107.108 ms [39m
+[35m[39m
+2022-05-26 09:30:28:3028 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 112.435 ms [39m
+[35m[39m
+2022-05-26 09:30:28:3028 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 98.558 ms [39m
+[35m[39m
+2022-05-26 09:30:28:3028 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 96.480 ms [39m
+[35m[39m
+2022-05-26 09:30:28:3028 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 102.307 ms [39m
+[35m[39m
+2022-05-26 09:30:29:3029 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.200 ms [39m
+[35m[39m
+2022-05-26 09:30:29:3029 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 100.493 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 693.475 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 697.267 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 697.379 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 694.625 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 696.327 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 697.009 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.100 ms [39m
+[35m[39m
+2022-05-26 09:31:55:3155 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 92.035 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 97.227 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.373 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 97.126 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 100.934 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 111.074 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 112.425 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.136 ms [39m
+[35m[39m
+2022-05-26 09:32:13:3213 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 99.866 ms [39m
+[35m[39m
+2022-05-26 09:32:19:3219 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.470 ms [39m
+[35m[39m
+2022-05-26 09:32:19:3219 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 105.454 ms [39m
+[35m[39m
+2022-05-26 09:32:19:3219 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 99.458 ms [39m
+[35m[39m
+2022-05-26 09:32:19:3219 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 96.527 ms [39m
+[35m[39m
+2022-05-26 09:32:19:3219 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 94.193 ms [39m
+[35m[39m
+2022-05-26 09:32:19:3219 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 100.073 ms [39m
+[35m[39m
+2022-05-26 09:32:20:3220 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 92.404 ms [39m
+[35m[39m
+2022-05-26 09:32:20:3220 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.514 ms [39m
+[35m[39m
+2022-05-26 09:33:44:3344 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 667.095 ms [39m
+[35m[39m
+2022-05-26 09:33:44:3344 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 666.289 ms [39m
+[35m[39m
+2022-05-26 09:33:44:3344 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 671.639 ms [39m
+[35m[39m
+2022-05-26 09:33:44:3344 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 669.773 ms [39m
+[35m[39m
+2022-05-26 09:33:44:3344 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 690.918 ms [39m
+[35m[39m
+2022-05-26 09:33:44:3344 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 692.701 ms [39m
+[35m[39m
+2022-05-26 09:33:45:3345 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 93.176 ms [39m
+[35m[39m
+2022-05-26 09:33:45:3345 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.816 ms [39m
+[35m[39m
+2022-05-26 09:34:52:3452 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 700.323 ms [39m
+[35m[39m
+2022-05-26 09:35:07:357 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.827 ms [39m
+[35m[39m
+2022-05-26 09:35:07:357 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 188.960 ms [39m
+[35m[39m
+2022-05-26 09:35:21:3521 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.417 ms [39m
+[35m[39m
+2022-05-26 09:35:27:3527 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.872 ms [39m
+[35m[39m
+2022-05-26 09:35:27:3527 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 97.233 ms [39m
+[35m[39m
+2022-05-26 09:35:29:3529 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 92.621 ms [39m
+[35m[39m
+2022-05-26 09:35:29:3529 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 92.186 ms [39m
+[35m[39m
+2022-05-26 09:35:32:3532 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.473 ms [39m
+[35m[39m
+2022-05-26 09:35:32:3532 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.706 ms [39m
+[35m[39m
+2022-05-26 09:39:11:3911 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 684.017 ms [39m
+[35m[39m
+2022-05-26 09:39:11:3911 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 683.129 ms [39m
+[35m[39m
+2022-05-26 09:39:11:3911 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 682.051 ms [39m
+[35m[39m
+2022-05-26 09:39:11:3911 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 678.970 ms [39m
+[35m[39m
+2022-05-26 09:39:11:3911 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 679.362 ms [39m
+[35m[39m
+2022-05-26 09:39:11:3911 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 679.693 ms [39m
+[35m[39m
+2022-05-26 09:39:13:3913 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 92.779 ms [39m
+[35m[39m
+2022-05-26 09:39:13:3913 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 93.528 ms [39m
+[35m[39m
+2022-05-26 09:41:59:4159 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 689.795 ms [39m
+[35m[39m
+2022-05-26 09:41:59:4159 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 690.584 ms [39m
+[35m[39m
+2022-05-26 09:42:01:421 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 112.208 ms [39m
+[35m[39m
+2022-05-26 09:42:01:421 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 112.445 ms [39m
+[35m[39m
+2022-05-26 09:42:01:421 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 200.697 ms [39m
+[35m[39m
+2022-05-26 09:42:01:421 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 201.852 ms [39m
+[35m[39m
+2022-05-26 09:42:01:421 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 289.857 ms [39m
+[35m[39m
+2022-05-26 09:42:01:421 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 291.168 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 669.236 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 668.859 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 663.958 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 673.266 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 667.301 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 666.832 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.258 ms [39m
+[35m[39m
+2022-05-26 09:43:53:4353 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 97.116 ms [39m
+[35m[39m
+2022-05-26 09:47:53:4753 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 677.598 ms [39m
+[35m[39m
+2022-05-26 09:47:53:4753 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 671.114 ms [39m
+[35m[39m
+2022-05-26 09:48:05:485 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 99.173 ms [39m
+[35m[39m
+2022-05-26 09:48:05:485 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 99.309 ms [39m
+[35m[39m
+2022-05-26 09:48:05:485 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 187.795 ms [39m
+[35m[39m
+2022-05-26 09:48:05:485 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 178.372 ms [39m
+[35m[39m
+2022-05-26 09:48:05:485 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 269.897 ms [39m
+[35m[39m
+2022-05-26 09:48:05:485 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 273.347 ms [39m
+[35m[39m
+2022-05-26 09:48:07:487 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.770 ms [39m
+[35m[39m
+2022-05-26 09:48:07:487 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.832 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 666.600 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 666.192 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 666.071 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 665.668 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 666.721 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 673.412 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 92.070 ms [39m
+[35m[39m
+2022-05-26 09:58:38:5838 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 99.707 ms [39m
+[35m[39m
+2022-05-26 09:58:44:5844 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 103.322 ms [39m
+[35m[39m
+2022-05-26 09:58:44:5844 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.948 ms [39m
+[35m[39m
+2022-05-26 09:58:44:5844 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 107.331 ms [39m
+[35m[39m
+2022-05-26 09:58:44:5844 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 106.259 ms [39m
+[35m[39m
+2022-05-26 09:58:44:5844 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 112.342 ms [39m
+[35m[39m
+2022-05-26 09:58:44:5844 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 125.906 ms [39m
+[35m[39m
+2022-05-26 09:58:45:5845 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 102.237 ms [39m
+[35m[39m
+2022-05-26 09:58:45:5845 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 108.832 ms [39m
+[35m[39m
+2022-05-26 09:58:45:5845 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 106.166 ms [39m
+[35m[39m
+2022-05-26 09:58:45:5845 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 106.756 ms [39m
+[35m[39m
+2022-05-26 09:58:45:5845 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 106.471 ms [39m
+[35m[39m
+2022-05-26 09:58:45:5845 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 107.669 ms [39m
+[35m[39m
+2022-05-26 09:58:49:5849 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 105.892 ms [39m
+[35m[39m
+2022-05-26 09:58:49:5849 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 105.987 ms [39m
+[35m[39m
+2022-05-26 09:58:49:5849 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 106.482 ms [39m
+[35m[39m
+2022-05-26 09:58:49:5849 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 106.893 ms [39m
+[35m[39m
+2022-05-26 09:58:49:5849 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 106.873 ms [39m
+[35m[39m
+2022-05-26 09:58:49:5849 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 108.125 ms [39m
+[35m[39m
+2022-05-26 09:58:56:5856 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 108.548 ms [39m
+[35m[39m
+2022-05-26 09:58:56:5856 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 104.606 ms [39m
+[35m[39m
+2022-05-26 09:58:56:5856 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 104.935 ms [39m
+[35m[39m
+2022-05-26 09:58:56:5856 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 113.631 ms [39m
+[35m[39m
+2022-05-26 09:58:56:5856 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 108.258 ms [39m
+[35m[39m
+2022-05-26 09:58:56:5856 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 108.745 ms [39m
+[35m[39m
+2022-05-26 10:07:57:757 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 676.145 ms [39m
+[35m[39m
+2022-05-26 10:07:57:757 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 673.581 ms [39m
+[35m[39m
+2022-05-26 10:07:58:758 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 105.197 ms [39m
+[35m[39m
+2022-05-26 10:07:58:758 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 114.036 ms [39m
+[35m[39m
+2022-05-26 10:07:58:758 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 198.339 ms [39m
+[35m[39m
+2022-05-26 10:07:58:758 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 200.028 ms [39m
+[35m[39m
+2022-05-26 10:07:58:758 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 287.143 ms [39m
+[35m[39m
+2022-05-26 10:07:58:758 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 288.075 ms [39m
+[35m[39m
+2022-05-26 10:08:01:81 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.642 ms [39m
+[35m[39m
+2022-05-26 10:08:01:81 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 97.263 ms [39m
+[35m[39m
+2022-05-26 10:08:02:82 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 97.480 ms [39m
+[35m[39m
+2022-05-26 10:08:02:82 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 98.446 ms [39m
+[35m[39m
+2022-05-26 10:08:07:87 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.928 ms [39m
+[35m[39m
+2022-05-26 10:08:07:87 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 94.938 ms [39m
+[35m[39m
+2022-05-26 10:08:07:87 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 100.594 ms [39m
+[35m[39m
+2022-05-26 10:08:07:87 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 97.364 ms [39m
+[35m[39m
+2022-05-26 10:08:07:87 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 94.842 ms [39m
+[35m[39m
+2022-05-26 10:08:07:87 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 101.230 ms [39m
+[35m[39m
+2022-05-26 10:08:09:89 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 91.496 ms [39m
+[35m[39m
+2022-05-26 10:08:09:89 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.240 ms [39m
+[35m[39m
+2022-05-26 10:08:24:824 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 102.596 ms [39m
+[35m[39m
+2022-05-26 10:08:24:824 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 112.273 ms [39m
+[35m[39m
+2022-05-26 10:08:24:824 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 107.392 ms [39m
+[35m[39m
+2022-05-26 10:08:24:824 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 104.810 ms [39m
+[35m[39m
+2022-05-26 10:08:24:824 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 110.929 ms [39m
+[35m[39m
+2022-05-26 10:08:24:824 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 109.352 ms [39m
+[35m[39m
+2022-05-26 10:08:25:825 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.726 ms [39m
+[35m[39m
+2022-05-26 10:08:25:825 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.973 ms [39m
+[35m[39m
+2022-05-26 10:09:23:923 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 719.194 ms [39m
+[35m[39m
+2022-05-26 10:09:35:935 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.045 ms [39m
+[35m[39m
+2022-05-26 10:09:35:935 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 188.664 ms [39m
+[35m[39m
+2022-05-26 10:10:06:106 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 700.638 ms [39m
+[35m[39m
+2022-05-26 10:10:06:106 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 699.862 ms [39m
+[35m[39m
+2022-05-26 10:10:33:1033 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.188 ms [39m
+[35m[39m
+2022-05-26 10:10:34:1034 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 141.108 ms [39m
+[35m[39m
+2022-05-26 10:11:21:1121 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 692.601 ms [39m
+[35m[39m
+2022-05-26 10:11:25:1125 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 100.663 ms [39m
+[35m[39m
+2022-05-26 10:11:25:1125 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 185.861 ms [39m
+[35m[39m
+2022-05-26 10:11:38:1138 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.856 ms [39m
+[35m[39m
+2022-05-26 10:11:42:1142 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 93.599 ms [39m
+[35m[39m
+2022-05-26 10:11:42:1142 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 95.400 ms [39m
+[35m[39m
+2022-05-26 10:12:54:1254 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 697.310 ms [39m
+[35m[39m
+2022-05-26 10:12:58:1258 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 100.310 ms [39m
+[35m[39m
+2022-05-26 10:12:58:1258 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 189.910 ms [39m
+[35m[39m
+2022-05-26 10:12:58:1258 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 284.795 ms [39m
+[35m[39m
+2022-05-26 10:12:59:1259 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 370.339 ms [39m
+[35m[39m
+2022-05-26 10:12:59:1259 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 458.667 ms [39m
+[35m[39m
+2022-05-26 10:12:59:1259 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 549.357 ms [39m
+[35m[39m
+2022-05-26 10:12:59:1259 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.081 ms [39m
+[35m[39m
+2022-05-26 10:12:59:1259 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.248 ms [39m
+[35m[39m
+2022-05-26 10:13:01:131 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 105.179 ms [39m
+[35m[39m
+2022-05-26 10:13:01:131 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 106.307 ms [39m
+[35m[39m
+2022-05-26 10:13:01:131 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 106.887 ms [39m
+[35m[39m
+2022-05-26 10:13:01:131 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 104.794 ms [39m
+[35m[39m
+2022-05-26 10:13:01:131 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 110.276 ms [39m
+[35m[39m
+2022-05-26 10:13:01:131 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 109.668 ms [39m
+[35m[39m
+2022-05-26 10:13:13:1313 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 94.223 ms [39m
+[35m[39m
+2022-05-26 10:13:13:1313 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 94.663 ms [39m
+[35m[39m
+2022-05-26 10:22:32:2232 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 694.175 ms [39m
+[35m[39m
+2022-05-26 10:22:32:2232 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 699.671 ms [39m
+[35m[39m
+2022-05-26 10:22:32:2232 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 701.587 ms [39m
+[35m[39m
+2022-05-26 10:22:32:2232 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 677.555 ms [39m
+[35m[39m
+2022-05-26 10:22:32:2232 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 688.759 ms [39m
+[35m[39m
+2022-05-26 10:22:32:2232 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 690.793 ms [39m
+[35m[39m
+2022-05-26 10:22:37:2237 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.753 ms [39m
+[35m[39m
+2022-05-26 10:22:37:2237 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.564 ms [39m
+[35m[39m
+2022-05-26 10:22:44:2244 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 105.159 ms [39m
+[35m[39m
+2022-05-26 10:22:44:2244 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 104.461 ms [39m
+[35m[39m
+2022-05-26 10:22:44:2244 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 105.554 ms [39m
+[35m[39m
+2022-05-26 10:22:44:2244 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 107.556 ms [39m
+[35m[39m
+2022-05-26 10:22:44:2244 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 108.706 ms [39m
+[35m[39m
+2022-05-26 10:22:44:2244 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 111.458 ms [39m
+[35m[39m
+2022-05-26 10:22:45:2245 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 95.883 ms [39m
+[35m[39m
+2022-05-26 10:22:45:2245 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.317 ms [39m
+[35m[39m
+2022-05-26 10:22:51:2251 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 98.248 ms [39m
+[35m[39m
+2022-05-26 10:22:51:2251 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 98.658 ms [39m
+[35m[39m
+2022-05-26 10:22:51:2251 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 99.689 ms [39m
+[35m[39m
+2022-05-26 10:22:51:2251 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 95.534 ms [39m
+[35m[39m
+2022-05-26 10:22:51:2251 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 97.402 ms [39m
+[35m[39m
+2022-05-26 10:22:51:2251 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 100.034 ms [39m
+[35m[39m
+2022-05-26 10:22:52:2252 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.618 ms [39m
+[35m[39m
+2022-05-26 10:22:52:2252 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.361 ms [39m
+[35m[39m
+2022-05-26 10:23:31:2331 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 659.200 ms [39m
+[35m[39m
+2022-05-26 10:23:31:2331 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 681.269 ms [39m
+[35m[39m
+2022-05-26 10:23:33:2333 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 92.243 ms [39m
+[35m[39m
+2022-05-26 10:23:33:2333 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 99.868 ms [39m
+[35m[39m
+2022-05-26 10:23:40:2340 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 102.758 ms [39m
+[35m[39m
+2022-05-26 10:23:40:2340 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 110.539 ms [39m
+[35m[39m
+2022-05-26 10:23:40:2340 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 194.001 ms [39m
+[35m[39m
+2022-05-26 10:23:40:2340 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 197.332 ms [39m
+[35m[39m
+2022-05-26 10:23:40:2340 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 295.105 ms [39m
+[35m[39m
+2022-05-26 10:23:40:2340 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 299.414 ms [39m
+[35m[39m
+2022-05-26 10:23:41:2341 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 96.486 ms [39m
+[35m[39m
+2022-05-26 10:23:41:2341 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 104.744 ms [39m
+[35m[39m
+2022-05-26 10:32:58:3258 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-26 10:33:34:3334 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 662.365 ms [39m
+[35m[39m
+2022-05-26 10:33:34:3334 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 670.592 ms [39m
+[35m[39m
+2022-05-26 10:33:34:3334 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 665.333 ms [39m
+[35m[39m
+2022-05-26 10:33:34:3334 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 653.414 ms [39m
+[35m[39m
+2022-05-26 10:33:34:3334 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 654.497 ms [39m
+[35m[39m
+2022-05-26 10:33:34:3334 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 669.314 ms [39m
+[35m[39m

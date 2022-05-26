@@ -1,20 +1,10 @@
-import { LessThan, Like, MoreThan } from 'typeorm';
+import { Between, LessThan, Like, MoreThan } from 'typeorm';
 import { Message } from '../entities/database/message';
 import { BaseRepository } from './baseRepository';
 
 class MessageRepository extends BaseRepository<Message> {
 
-    /*
-    example function on how to override from base implementation
-    */
 
-    // override async getOneByUUID(uuid: string) {
-    //     return await this.repository.findOne({
-    //         where: {
-    //             uuid: uuid
-    //         }
-    //     })
-    // }
 
     getLatestTweets = async (username: string) => {
         return await this.repository.find({
@@ -51,6 +41,9 @@ class MessageRepository extends BaseRepository<Message> {
     }
 
     getLatestTrends = async () => {
+
+        const date = new Date;
+
         return await this.repository.find({
             select: {
                 content: true
