@@ -38,6 +38,10 @@ class MessageService extends BaseService<Message> {
     getLatestTrends = async () => {
         return await this.messageRepository.getLatestTrends();
     }
+
+    getFollowing = async (userId: string[]) => {
+        return await this.messageRepository.getFollowing(userId);
+    }
 }
 
 export default MessageService

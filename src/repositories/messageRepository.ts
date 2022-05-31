@@ -1,4 +1,4 @@
-import { Between, LessThan, Like, MoreThan } from 'typeorm';
+import { Between, In, LessThan, Like, MoreThan } from 'typeorm';
 import { Message } from '../entities/database/message';
 import { BaseRepository } from './baseRepository';
 
@@ -52,6 +52,15 @@ class MessageRepository extends BaseRepository<Message> {
                 content: Like(`%#%`)
             }
         })
+    }
+
+    getFollowing = async (userId: string[]) => {
+        const following = await this.repository.find({
+            where: {
+                userId: In(userId)
+            }
+        })
+        return following;
     }
 
     search = async (query: string) => {

@@ -854,3 +854,131 @@
 2022-05-26 12:59:55:5955 [32minfo[39m: [32mData Source has been initialized![39m
 2022-05-27 09:09:45:945 [32minfo[39m: [32mData Source has been initialized![39m
 2022-05-27 09:10:19:1019 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-27 14:53:14:5314 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-30 07:51:10:5110 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 10:58:38:5838 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:01:04:14 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 752.180 ms [39m
+[35m[39m
+2022-05-31 11:01:04:14 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 781.188 ms [39m
+[35m[39m
+2022-05-31 11:01:04:14 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 756.317 ms [39m
+[35m[39m
+2022-05-31 11:01:04:14 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 787.211 ms [39m
+[35m[39m
+2022-05-31 11:01:04:14 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 795.867 ms [39m
+[35m[39m
+2022-05-31 11:01:04:14 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 762.034 ms [39m
+[35m[39m
+2022-05-31 11:01:05:15 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 94.458 ms [39m
+[35m[39m
+2022-05-31 11:01:05:15 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 90.034 ms [39m
+[35m[39m
+2022-05-31 11:01:05:15 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 92.909 ms [39m
+[35m[39m
+2022-05-31 11:01:05:15 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 96.954 ms [39m
+[35m[39m
+2022-05-31 11:01:05:15 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 100.387 ms [39m
+[35m[39m
+2022-05-31 11:01:05:15 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 99.908 ms [39m
+[35m[39m
+2022-05-31 11:01:06:16 [35mhttp[39m: [35mOPTIONS /api/v1/messages/messages/trends/?trend=trend 200 0 - 0.178 ms [39m
+[35m[39m
+2022-05-31 11:01:06:16 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/?trend=trend 200 452 - 90.336 ms [39m
+[35m[39m
+2022-05-31 11:01:06:16 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/?trend=trend 304 - - 88.329 ms [39m
+[35m[39m
+2022-05-31 11:01:17:117 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 88.259 ms [39m
+[35m[39m
+2022-05-31 11:01:17:117 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 88.177 ms [39m
+[35m[39m
+2022-05-31 11:01:28:128 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 87.663 ms [39m
+[35m[39m
+2022-05-31 11:01:28:128 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 92.556 ms [39m
+[35m[39m
+2022-05-31 11:01:28:128 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 91.926 ms [39m
+[35m[39m
+2022-05-31 11:01:28:128 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 93.890 ms [39m
+[35m[39m
+2022-05-31 11:01:28:128 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 86.843 ms [39m
+[35m[39m
+2022-05-31 11:01:28:128 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 89.635 ms [39m
+[35m[39m
+2022-05-31 11:03:10:310 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 678.684 ms [39m
+[35m[39m
+2022-05-31 11:03:10:310 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 681.584 ms [39m
+[35m[39m
+2022-05-31 11:03:10:310 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 669.419 ms [39m
+[35m[39m
+2022-05-31 11:03:10:310 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 710.105 ms [39m
+[35m[39m
+2022-05-31 11:03:10:310 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 685.479 ms [39m
+[35m[39m
+2022-05-31 11:03:10:310 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 223 - 706.631 ms [39m
+[35m[39m
+2022-05-31 11:03:21:321 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 98.164 ms [39m
+[35m[39m
+2022-05-31 11:03:21:321 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 101.474 ms [39m
+[35m[39m
+2022-05-31 11:03:26:326 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 96.674 ms [39m
+[35m[39m
+2022-05-31 11:03:26:326 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 96.308 ms [39m
+[35m[39m
+2022-05-31 11:04:43:443 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:04:59:459 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:06:08:68 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:06:28:628 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:06:41:641 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:06:47:647 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:11:09:119 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:14:48:1448 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:15:01:151 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:24:14:2414 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:26:00:260 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:27:52:2752 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:28:16:2816 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:30:02:302 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:30:05:305 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 110.067 ms [39m
+[35m[39m
+2022-05-31 11:30:05:305 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 198.663 ms [39m
+[35m[39m
+2022-05-31 11:30:05:305 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 289.968 ms [39m
+[35m[39m
+2022-05-31 11:30:23:3023 [35mhttp[39m: [35mGET /api/v1/messages/messages/following/ 200 35 - 17796.594 ms [39m
+[35m[39m
+2022-05-31 11:31:02:312 [32minfo[39m: [32mData Source has been initialized![39m
+2022-05-31 11:31:04:314 [35mhttp[39m: [35mOPTIONS /api/v1/messages/messages 200 0 - 0.906 ms [39m
+[35m[39m
+2022-05-31 11:31:04:314 [35mhttp[39m: [35mPOST /api/v1/messages/messages 200 244 - 311.709 ms [39m
+[35m[39m
+2022-05-31 11:31:05:315 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 106.909 ms [39m
+[35m[39m
+2022-05-31 11:31:05:315 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 246 - 196.213 ms [39m
+[35m[39m
+2022-05-31 11:31:05:315 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 287.677 ms [39m
+[35m[39m
+2022-05-31 11:31:09:319 [35mhttp[39m: [35mGET /api/v1/messages/messages/following/ 304 - - 4068.480 ms [39m
+[35m[39m
+2022-05-31 11:31:09:319 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 4161.940 ms [39m
+[35m[39m
+2022-05-31 11:31:10:3110 [35mhttp[39m: [35mGET /api/v1/messages/messages/following/ 200 35 - 4710.718 ms [39m
+[35m[39m
+2022-05-31 11:31:10:3110 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 246 - 4895.735 ms [39m
+[35m[39m
+2022-05-31 11:31:10:3110 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 4817.380 ms [39m
+[35m[39m
+2022-05-31 11:31:15:3115 [35mhttp[39m: [35mGET /api/v1/messages/messages/following/ 304 - - 1481.412 ms [39m
+[35m[39m
+2022-05-31 11:31:15:3115 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 304 - - 1493.545 ms [39m
+[35m[39m
+2022-05-31 11:31:15:3115 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 304 - - 1493.257 ms [39m
+[35m[39m
+2022-05-31 11:31:15:3115 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 304 - - 1494.994 ms [39m
+[35m[39m
+2022-05-31 11:31:15:3115 [35mhttp[39m: [35mGET /api/v1/messages/messages/latestkweets 200 246 - 1489.372 ms [39m
+[35m[39m
+2022-05-31 11:31:15:3115 [35mhttp[39m: [35mGET /api/v1/messages/messages/mentions 200 36 - 1496.845 ms [39m
+[35m[39m
+2022-05-31 11:31:16:3116 [35mhttp[39m: [35mGET /api/v1/messages/messages/trends/latest/ 200 68 - 94.649 ms [39m
+[35m[39m
+2022-05-31 11:31:16:3116 [35mhttp[39m: [35mGET /api/v1/messages/messages/following/ 200 35 - 707.338 ms [39m
+[35m[39m

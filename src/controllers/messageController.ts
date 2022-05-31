@@ -94,6 +94,23 @@ class MessageController extends BaseController<Message> {
         })
     }
 
+    getFollowing = async (req: Request, res: Response) => {
+        const jwt: any = jwt_decode(`${req.cookies['session.sig']}.${req.cookies["session"]}`);
+        let userIds: string[] = [];
+
+        for (let index = 0; index < jwt.passport.user.following.length; index++) {
+            const element = jwt.passport.user.following[index];
+            userIds.push(element.id);
+        }
+
+        const response = await this.messageService.getFollowing(userIds);
+
+        return res.send({
+            message: "succesful",
+            entity: response
+        })
+    }
+
     getTrendskweet = async (req: Request, res: Response) => {
         const trend = req.query.trend as string;
         const response = await this.messageService.getTrendsKweets(trend);
